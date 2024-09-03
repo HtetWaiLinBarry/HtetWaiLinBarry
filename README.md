@@ -1,3 +1,5 @@
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2f333d8ecb31998ad8d4c7e5c0789cae5c91316391381cefc5e0c9b309a75fba/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3131302673656374696f6e3d686561646572">
+<img src="https://camo.githubusercontent.com/2f333d8ecb31998ad8d4c7e5c0789cae5c91316391381cefc5e0c9b309a75fba/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3131302673656374696f6e3d686561646572" width="100%" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=110&amp;section=header" style="max-width: 100%;"></a>
 <h1 align="center">Hi 👋, I'm HTET WAI LIN also known as BARRY</h1>
 <h3 align="center">A passionate full-stack developer and an aspiring Project Manager</h3>
 
