@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **I worked on 5 consecutive projects by myself in 4 months. It was so tiring.**
 
+<br>
+
 <div align="center">
   <img src="https://cdn.pixabay.com/animation/2023/10/22/03/31/03-31-40-761_512.gif" width=100px height="50px"/>
   <img src="https://cdn.pixabay.com/animation/2023/10/22/03/31/03-31-40-761_512.gif" width=100px height="50px"/>
@@ -23,6 +25,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=htetwailinbarry&locale=en&hide_title=false&layout=compact&card_width=230&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
 <img src="https://streak-stats.demolab.com?user=htetwailinbarry&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /></div>
 
+<br>
 
 <p align="left">
 </p>
