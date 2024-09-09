@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, .NET and Project Management**
 
-- 📫 You can reach me by **barryent2002@gmail.com**
+- 📫 You can reach me by **hwlinbarry2k2@gmail.com**
 
 - ⚡ Fun fact **I worked on 5 consecutive projects by myself in 4 months. It was so tiring.**
 
